@@ -1,4 +1,4 @@
-# AI 作业文档编辑器（Python）
+# FxxkHomework
 
 一个本地 Python 小软件，用于编辑学生假期作业文档（`.docx`）：
 
