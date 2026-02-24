@@ -1,0 +1,2 @@
+"""AI homework document editor."""
+
